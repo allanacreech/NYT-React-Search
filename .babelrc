@@ -1,0 +1,4 @@
+{
+  "presets": ["es2015"]
+}
+//this is for Node to understand ES6
